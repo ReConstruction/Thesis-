@@ -1,0 +1,48 @@
+
+Simple AI(artificial intelligence) Subject
+
+
+Whats IS AI??
+- There Are Many People Who Want To Create An AI Systems...
+  However What Did You Know About This Subject?
+  
+ I Can't Give A Correct Answer.Only Opinion,
+ 
+ 
+ To Make An AI You Need To Construct,
+ A Brain
+ A Body
+ A Linker
+ 
+  Brain-
+   There Are Emotions (You Doesn't Have To Add This Cause There Are Many Problems Fators)
+   A Storage
+   A Calculative Program
+   
+   
+   Ex.
+    Get Actions Hear (Frequency + wave) change into numerical data
+    compare data with exists data 
+    Hear (Hello(F+W))
+    Change To Data 
+     Compare Data If Exiss or Same
+      Print To Action Voice print("Hello")
+
+Body
+ For Actions
+ 
+Linker
+ Link Info From Brain To Body
+ 
+ 
+ Brain + Nerve + Body
+ 
+
+
+
+
+
+
+
+
+
